@@ -1,0 +1,20 @@
+{
+    "name": "ichi/ardent_like",
+    "require": {
+        "illuminate/support": "~5.2",
+        "illuminate/database": "~5.2"
+    },
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Ichi\\ArdentLike\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "ichi",
+            "email": "ichi.ttht.1@gmail.com"
+        }
+    ]
+}
